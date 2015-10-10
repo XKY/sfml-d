@@ -1,4 +1,4 @@
 # sfml-d
-Derelict-SFML Binding for OOP. :)
+Derelict-SFML with oop.
 
-Derelict-SFML을 객체지향 스타일로 바인딩한 라이브러리입니다.
+just for my visual novel game engine.
